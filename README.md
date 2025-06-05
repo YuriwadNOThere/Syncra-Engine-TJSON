@@ -9,10 +9,12 @@ First Update! • Date: 06/05/25
 
 ## Changelog:
 # UPDATE 1 • v1.0.5
+
 # What's New?
-• Added Support for ``/* multi-line */`` comment stripping
-• Update Documentation
-• Added an improved error with filename
+
+ • Added Support for ``/* multi-line */`` comment stripping
+ • Update Documentation
+ • Added an improved error with filename
 
 ## Also Try:
 Remember to try [Syncra Engine!](https://github.com/YuriwadNOThere/Syncra-Engine) please give an feedback soo i can make good updates for the engine!
