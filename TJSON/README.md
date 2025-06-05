@@ -9,5 +9,5 @@ import TJSON.TheFile;
 
 var data = TJSON.parseFile("mods/MyMod/Mod-Info.json");
 
-trace("Mod Name: " + data.name);
-trace("Author: " + data.author);
+trace("Mod Name": + data.name);
+trace("Author": + data.author);
