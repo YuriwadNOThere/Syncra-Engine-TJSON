@@ -5,7 +5,9 @@ A lightweight custom JSON parser built for Syncra Engine
 ## Usage
 
 ```haxe
-import TJSON.src.SyncraTJSON;
+import TJSON.TheFile;
 
-var data = SyncraTJSON.parseFile("mods/Example/Mod-Info.json");
-trace(data.name);
+var data = TJSON.parseFile("mods/MyMod/Mod-Info.json");
+
+trace("Mod Name: " + data.name);
+trace("Author: " + data.author);
