@@ -1,11 +1,11 @@
 {
-  "name": "srcTJSON",
-  "url": "https://github.com/YuriwadNOThere/Syncra-Engine-TJSON/new/main",
+  "name": "TJSON",
+  "url": "https://github.com/YuriwadNOThere/Syncra-Engine-TJSON",
   "license": "MIT",
-  "tags": ["json", "parser", "lightweight"],
-  "description": "A lightweight custom JSON parser for Syncra Engine",
-  "version": "1.0.0",
-  "releasenote": "Initial version of syncra TJSON",
+  "tags": ["json", "parser", "lightweight", "engine"],
+  "description": "Custom JSON parser for Syncra Engine",
+  "version": "1.0.5",
+  "releasenote": "Update for an better parser",
   "classPath": "src",
   "dependencies": {}
 }
